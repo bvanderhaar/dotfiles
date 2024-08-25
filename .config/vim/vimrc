@@ -1,0 +1,3 @@
+syntax on
+"consider jh to help slide to the next command
+inoremap jj <Esc>
